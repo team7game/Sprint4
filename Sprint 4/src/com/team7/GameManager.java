@@ -25,10 +25,10 @@ public class GameManager {
     int redTeamScore = 0;
     int greenTeamScore = 0;
 
-    int gameTimerDuration = 30;
+    int gameTimerDuration = 360;
     int currentGameTime;
 
-    int countdownTimerDuration = 3;
+    int countdownTimerDuration = 10;
     int currentCountdownTime;
 
     int currentActionLine = 0;
